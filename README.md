@@ -2,17 +2,17 @@
 
 ## Introduction 🏡
 
-On this repo is the first *intersemestral exam*, there consist on aplication of the **LMS algorith** on one real aplication, the real aplication is making a good *prediction* on the *price* of sale of **houses** in Iowa.
+This repo is the first *intersemestral exam*, consist in the **aplication of LMS Algorithm** in one real app that makes a good prediction about the selling *price* of a *houses in Iowa*.
 
 ## Instructions ℹ️
 
 1. **Download** the repo
 2. **Install** the dependecies with the requirements.txt
 3. **Run** the main jupyter notebook
-4. **Ejoy**
+4. **Enjoy**
 
 ## Extras ⚡️
 
-On the **res** folder is the best solotion i found. 
+The *best* solution is in the **res** folder. 
 
-On the **temp** folder the program save one posible *solution* of weigths and the *correspondig* plot.
+The program *saves* one *posible* solution of **weights** and the corresponding **plot** in the **temp** folder.
